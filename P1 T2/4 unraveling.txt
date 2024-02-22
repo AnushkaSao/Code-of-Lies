@@ -1,0 +1,5 @@
+open the 1st image with any text editor
+the product(multiplication) of Al Ghurair Centre Mall(location) is the key=this means multiplication of coordinates is part of the password
+the 3 image suggests the format of the password using cpp i.e DDMM---- 1st 4 digits r todays date and month(1602) and last 4 were multiplication of coordinates
+upon opening the 2nd file u'll be promoted to phase2(P2).
+
