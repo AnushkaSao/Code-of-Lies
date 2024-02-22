@@ -1,0 +1,1 @@
+use Power BI or such platforms to visualise this data u'll find common columns in this database i.e biometric id in dataset1 and past data+ email in dataset2 and past data. likewise by joining the dots finf company name and adress in dataset2.

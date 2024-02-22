@@ -1,0 +1,3 @@
+this is a simple home-made cipher just note down the elements in the sample and assemble them in the main cipher.
+the word u get is a 'psychologist'.
+ 
